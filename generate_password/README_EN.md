@@ -1,0 +1,1 @@
+The simplest program for generating a password with different variations of generation :-)
